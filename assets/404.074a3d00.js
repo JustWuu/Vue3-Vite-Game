@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as o,d as t}from"./index.7a551502.js";const c={},n=t("h1",{class:"green"},"404",-1),a=[n];function r(_,d,p,i,l,f){return s(),o("div",null,a)}const h=e(c,[["render",r]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,f as t}from"./index.efb3d845.js";const c={},n=t("h1",{class:"green"},"404",-1),a=[n];function r(_,d,p,f,i,l){return s(),o("div",null,a)}const h=e(c,[["render",r]]);export{h as default};
