@@ -1,0 +1,1 @@
+import{_ as e,o as _,c}from"./index.54670bc9.js";const o={},s={class:"open"};function n(t,a){return _(),c("div",s," \u6211\u662F\u53EC\u559A ")}const r=e(o,[["render",n],["__scopeId","data-v-d26c9694"]]);export{r as default};
