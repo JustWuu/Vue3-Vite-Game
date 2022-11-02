@@ -1,0 +1,1 @@
+import{_ as e,o as _,c}from"./index.e7eb57ac.js";const s={class:"open"},t={__name:"pack",setup(o){return(a,p)=>(_(),c("div",s," \u6211\u662F\u80CC\u5305 "))}},r=e(t,[["__scopeId","data-v-76e55846"]]);export{r as default};
